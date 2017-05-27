@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1495851756 source:e:\practica\gusanito\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<conio.h>
+
+1495864562 source:d:\proyectos\gusanito\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+
